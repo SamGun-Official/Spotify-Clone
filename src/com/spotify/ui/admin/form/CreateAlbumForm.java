@@ -117,6 +117,7 @@ public class CreateAlbumForm extends JPanel{
         this.add(Create);
         this.add(Box.createRigidArea(new Dimension((int)ASSET.content.getWidth()-100 , 50)));
         Create.setPreferredSize(new Dimension(125,25));
+        /* Constructor Error */
 //        Create.addMouseListener(new MouseAdapter() {
 //            @Override
 //            public void mouseClicked(MouseEvent e) {
